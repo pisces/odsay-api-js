@@ -1,0 +1,6 @@
+.DS_Store
+.git*
+.idea
+Gruntfile.js
+node_modules/
+tests/
